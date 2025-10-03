@@ -9,7 +9,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/about-me.png" width="40%" />
+  <img src="./assets/about-me.png" width="50%" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/now-playing.png" width="40%" />
+  <img src="./assets/now-playing.png" width="50%" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/statistics.png" width="40%" />
+  <img src="./assets/statistics.png" width="50%" />
 </p>
 
 <div align="center">
@@ -48,7 +48,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/achievements.png" width="40%" />
+  <img src="./assets/achievements.png" width="50%" />
 </p>
 
 <div align="center">
@@ -62,7 +62,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/tech-stack.png" width="40%" />
+  <img src="./assets/tech-stack.png" width="50%" />
 </p>
 
 <div align="center">
@@ -72,7 +72,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/connect-with-me.png" width="40%" />
+  <img src="./assets/connect-with-me.png" width="50%" />
 </p>
 
 <div align="center">
@@ -86,7 +86,7 @@
 <img src="./assets/divider.png" width="100%" height="35px" />
 
 <p align="center">
-  <img src="./assets/contribution-snake.png" width="40%" />
+  <img src="./assets/contribution-snake.png" width="50%" />
 </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/0xAbdiiii/0xAbdiiii/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" /> </p>
 
