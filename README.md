@@ -1,56 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=ff6e96&text=Hi%20(✿◕‿◕✿),%20I'm%20%20Abdul%20Rahman&section=header&fontAlign=50&fontAlignY=35&animation=fadeIn&fontSize=40&fontColor=F8F0C6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=ff6e96&text=Hi%20(✿◕‿◕✿),%20I'm%20Abdul%20Rahman&section=header&fontAlign=50&fontAlignY=35&animation=fadeIn&fontSize=40&fontColor=F8F0C6" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&weight=600&size=32&duration=3000&pause=1000&color=ff6e96&center=true&vCenter=true&width=550&lines=Software+Engineer;Game+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&weight=600&size=32&duration=3000&pause=1000&color=ff6e96&center=true&vCenter=true&width=550&lines=Software+Engineer;Game+Developer;Open+Source+Contributor" alt="Typing animation" />
 </p>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/about-me.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/about-me.png" width="500px" style="max-width:90%;" alt="About Me" />
 </p>
 
 <div align="center">
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26px" align="center" /> I use Arch (btw)<br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px" align="center" /> Open-source enthusiast & FOSS advocate<br><br>
-    <img src="./assets/hmm.gif" width="26px" align="center" /> Always curious — ask me anything!<br><br>
-    <img src="./assets/developer.gif" width="36px" align="center" /> Currently exploring Linux, Android Development & Cybersecurity
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26px" align="center" alt="Arch Linux" /> I use Arch (btw)<br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px" align="center" alt="Git" /> Open-source enthusiast & FOSS advocate<br><br>
+    <img src="./assets/hmm.gif" width="26px" align="center" alt="Thinking gif" /> Always curious — ask me anything!<br><br>
+    <img src="./assets/developer.gif" width="36px" align="center" alt="Developer gif" /> Currently exploring Linux, Android Development & Cybersecurity
   </p>
 </div>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/now-playing.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/now-playing.png" width="500px" style="max-width:90%;" alt="Now Playing" />
 </p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzp3f57vy267c6agyoby2nez3a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzp3f57vy267c6agyoby2nez3a&cover_image=true&theme=novatorem&show_offline=false&background_color=transparent&interchange=true&bar_color=ff6e96&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzp3f57vy267c6agyoby2nez3a&cover_image=true&theme=novatorem&show_offline=false&background_color=transparent&interchange=true&bar_color=ff6e96&bar_color_cover=true" alt="Spotify profile widget" />
   </a>
 </p>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/statistics.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/statistics.png" width="500px" style="max-width:90%;" alt="Statistics" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdiiii&layout=compact&langs_count=6&hide_border=false&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdiiii&layout=compact&langs_count=6&hide_border=false&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdiiii&show_icons=true&count_private=true&hide_border=false&rank_icon=github&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xabdiiii&show_icons=true&count_private=true&hide_border=false&rank_icon=github&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180" alt="GitHub Stats" />
 </div>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/achievements.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/achievements.png" width="500px" style="max-width:90%;" alt="Achievements" />
 </p>
 
 <div align="center">
@@ -58,42 +58,42 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=0xAbdiiii&theme=radical&hide_border=false&background=0D1117" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=0xAbdiiii&theme=radical&hide_border=false&background=0D1117" height="180" alt="GitHub Streak Stats" />
 </div>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/tech-stack.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/tech-stack.png" width="500px" style="max-width:90%;" alt="Tech Stack" />
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,kotlin,linux,vim,bash,unity,vscode,windows" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,kotlin,linux,vim,bash,unity,vscode,windows" height="40" alt="Tech Stack Icons" />
 </div>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/connect-with-me.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/connect-with-me.png" width="500px" style="max-width:90%;" alt="Connect With Me" />
 </p>
 
 <div align="center">
-  <a href="https://facebook.com/0xAbdi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/the_abdi.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/923042963790"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abdul-rahman-soomro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdulrahmansoomro7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/0xAbdi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/the_abdi.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/923042963790"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/abdul-rahman-soomro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdulrahmansoomro7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-<img src="./assets/divider.png" width="100%" height="35px" />
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
 
 <p align="center">
-  <img src="./assets/contribution-snake.png" width="500px" style="max-width:90%;" />
+  <img src="./assets/contribution-snake.png" width="500px" style="max-width:90%;" alt="Contribution Snake Title" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdiiii/0xAbdiiii/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/0xAbdiiii/0xAbdiiii/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff6e96&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff6e96&section=footer" alt="Footer" />
 </p>
