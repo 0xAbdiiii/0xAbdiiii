@@ -14,10 +14,10 @@
 
 <div align="center">
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="24px" style="vertical-align: middle;" /> I use Arch (btw)<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24px" style="vertical-align: middle;" /> FOSS advocate<br>
-    <img src="./assets/hmm.gif" width="24px" style="vertical-align: middle;" /> Ask me about anything<br>
-    <img src="./assets/developer.gif" width="34px" style="vertical-align: middle;" /> I’m currently learning Linux, Android Development, Cybersecurity
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26px" align="center" /> I use Arch (btw)<br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px" align="center" /> Open-source enthusiast & FOSS advocate<br><br>
+    <img src="./assets/hmm.gif" width="26px" align="center" /> Always curious — ask me anything!<br><br>
+    <img src="./assets/developer.gif" width="36px" align="center" /> Currently exploring Linux, Android Development & Cybersecurity
   </p>
 </div>
 
@@ -54,7 +54,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xabdiiii&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=3&title=Commit,Followers,Repositories,Stars,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xabdiiii&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=3&background=0D1117&title=Commit,Followers,Repositories,Stars,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 <br>
 <div align="center">
