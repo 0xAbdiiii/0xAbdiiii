@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&weight=600&size=32&duration=3000&pause=1000&color=ff6e96&center=true&vCenter=true&width=550&lines=Software+Engineer;Game+Developer;Open+Source+Contributor" alt="Typing animation" />
 </p>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/about-me.png" width="500px" style="max-width:90%;" alt="About Me" />
@@ -21,7 +21,7 @@
   </p>
 </div>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/now-playing.png" width="500px" style="max-width:90%;" alt="Now Playing" />
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/statistics.png" width="500px" style="max-width:90%;" alt="Statistics" />
@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xabdiiii&show_icons=true&count_private=true&hide_border=false&rank_icon=github&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117" height="180" alt="GitHub Stats" />
 </div>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/achievements.png" width="500px" style="max-width:90%;" alt="Achievements" />
@@ -61,7 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=0xAbdiiii&theme=radical&hide_border=false&background=0D1117" height="180" alt="GitHub Streak Stats" />
 </div>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/tech-stack.png" width="500px" style="max-width:90%;" alt="Tech Stack" />
@@ -71,7 +71,7 @@
   <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,kotlin,linux,vim,bash,unity,vscode,windows" height="40" alt="Tech Stack Icons" />
 </div>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/connect-with-me.png" width="500px" style="max-width:90%;" alt="Connect With Me" />
@@ -85,7 +85,7 @@
   <a href="mailto:abdulrahmansoomro7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
 
 <p align="center">
   <img src="./assets/contribution-snake.png" width="500px" style="max-width:90%;" alt="Contribution Snake Title" />
