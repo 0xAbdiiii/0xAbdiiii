@@ -3,20 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Handwriting&weight=600&size=32&duration=3000&pause=1000&color=ff6e96&center=true&vCenter=true&width=550&lines=Software+Engineer;Game+Developer;Open+Source+Contributor" alt="Typing animation" />
-</p>
-
-<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" />
-
-<p align="center">
   <img src="./assets/about-me.png" width="500px" style="max-width:90%;" alt="About Me" />
 </p>
+
+<img src="./assets/divider.png" width="100%" height="35px" alt="Divider" /><br><br>
 
 <div align="center">
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26px" align="center" alt="Arch Linux" /> I use Arch (btw)<br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px" align="center" alt="Git" /> Open-source enthusiast & FOSS advocate<br><br>
     <img src="./assets/hmm.gif" width="26px" align="center" alt="Thinking gif" /> Always curious — ask me anything!<br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px" align="center" alt="Git" /> Open-source enthusiast & FOSS advocate<br><br>
     <img src="./assets/developer.gif" width="36px" align="center" alt="Developer gif" /> Currently exploring Linux, Android Development & Cybersecurity
   </p>
 </div>
