@@ -6,7 +6,7 @@
   <img src="./assets/about-me.png" width="400px" style="max-width:90%;" alt="About Me" />
 </p>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br>
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br><br>
 
 <div align="center">
   <p>
