@@ -6,7 +6,7 @@
   <img src="./assets/about-me.png" width="400px" style="max-width:90%;" alt="About Me" />
 </p>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br><br>
+<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br>
 
 <div align="center">
 👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate passionate about Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, and the inner workings of operating systems.
