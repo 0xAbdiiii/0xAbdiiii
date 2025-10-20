@@ -9,7 +9,7 @@
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br>
 
 <div align="center">
-👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate with a strong interest in Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, the inner workings of operating systems, and I’m currently learning Android development.
+👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate with a interest in Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, the inner workings of operating systems, and I’m currently learning Android development.
 </div>
 
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
