@@ -6,10 +6,8 @@
   <img src="./assets/about-me.png" width="400px" style="max-width:90%;" alt="About Me" />
 </p>
 
-<img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br>
-
 <div align="center">
-👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate interested in Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, operating systems, and learning Android development.
+I'm a Cybersecurity undergraduate interested in Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, and deepening my understanding of operating systems. I'm also learning Android development to broaden my technical skill set.
 </div>
 
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
