@@ -8,13 +8,8 @@
 
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br><br>
 
-<div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26px" align="center" alt="Arch Linux" /> I use Arch (btw)<br><br>
-    <img src="./assets/hmm.gif" width="26px" align="center" alt="Thinking gif" /> Always curious — ask me anything!<br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px" align="center" alt="Git" /> Open-source enthusiast & FOSS advocate<br><br>
-    <img src="./assets/developer.gif" width="36px" align="center" alt="Developer gif" /> Currently exploring Linux, Android Development & Cybersecurity
-  </p>
+<div>
+> 👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate passionate about Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, and the inner workings of operating systems.
 </div>
 
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
