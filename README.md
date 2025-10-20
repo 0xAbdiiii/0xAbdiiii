@@ -8,8 +8,8 @@
 
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" /><br><br>
 
-<div>
-> 👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate passionate about Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, and the inner workings of operating systems.
+<div align="center">
+👋 Hi, I'm Abdul Rahman Soomro — a Cybersecurity undergraduate passionate about Linux, DevOps, and automation. I enjoy exploring system administration, open-source technologies, and the inner workings of operating systems.
 </div>
 
 <img src="./assets/divider.png" width="100%" height="25px" alt="Divider" />
