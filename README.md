@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzp3f57vy267c6agyoby2nez3a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzp3f57vy267c6agyoby2nez3a&cover_image=true&theme=novatorem&show_offline=false&background_color=transparent&interchange=true&bar_color=ff6e96&bar_color_cover=true" alt="Spotify profile widget" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzp3f57vy267c6agyoby2nez3a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0d1117&interchange=false&profanity=false&mode=dark" alt="Spotify profile widget" />
   </a>
 </p>
 
